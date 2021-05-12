@@ -14,7 +14,7 @@
     "express": "^4.16.4",
     "fs": "0.0.1-security",
     "node-geocoder": "^3.22.0",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.3",
     "path": "^0.12.7",
     "request-ip": "^2.1.3"
